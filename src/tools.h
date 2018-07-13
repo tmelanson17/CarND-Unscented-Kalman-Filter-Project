@@ -26,4 +26,6 @@ public:
 
 };
 
+double normalizeAngle(double in);
+
 #endif /* TOOLS_H_ */
